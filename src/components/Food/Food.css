@@ -1,0 +1,14 @@
+.food-details{
+    color: rgba(66, 66, 66, 0.829);
+}
+.food-details small{
+    color: rgba(131, 131, 131, 0.822);
+} 
+
+.food-container:hover{
+    border-radius: 15px;
+    box-shadow: 5px 5px 50px 15px rgba(219, 219, 219, 0.452);
+}
+.food-item a{
+    text-decoration: none;
+}

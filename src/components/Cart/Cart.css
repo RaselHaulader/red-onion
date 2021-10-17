@@ -1,0 +1,49 @@
+.edit-delivery-container h3{
+    border-bottom: 5px solid rgba(211, 211, 211, 0.753);
+    width: 75%;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.edit-delivery-container input{
+    display: block;
+    margin: 15px 0;
+    border: none;
+    background-color: rgba(236, 236, 236, 0.74);
+    width: 75%;
+    padding: 10px;
+}
+.edit-delivery-container button{
+    width: 75%;
+    padding: 10px;
+    font-size: 12px;
+}
+.cart-container{
+    line-height: 12px;
+    color:rgba(110, 110, 110, 0.979) ;
+    letter-spacing: 0.001px;
+    font-weight: 500;
+    
+}
+.cart-container p{
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+.cart-calc{
+    line-height: 12px;
+}
+.cart-calc button{
+    background-color: rgba(172, 172, 172, 0.479);
+}
+.cart-calc button:hover{
+    background-color: rgba(80, 80, 80, 0.479);
+}
+.cart-product-item-container{
+    height: 210px;
+    overflow: hidden;
+    overflow-x: hidden ;
+    overflow-y: scroll ;
+}
+.cart-product-item-container::-webkit-scrollbar{
+    width: 0;
+}

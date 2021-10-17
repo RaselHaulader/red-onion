@@ -1,0 +1,22 @@
+.color-btn{
+    background-color: #F91944;
+    color: white;
+}
+.color-btn:hover{
+    background-color: rgb(235, 13, 31) !important;
+}
+.brand-logo{
+    width: 150px;
+}
+.icon-link{
+    color: black !important;
+    font-weight: bold;
+    margin-right:25px;
+}
+.signIn-btn{
+    padding: 5px 0;
+    text-decoration: none;
+}
+.signIn-btn:hover{
+    color: white !important;
+}

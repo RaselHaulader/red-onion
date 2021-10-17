@@ -1,0 +1,14 @@
+.foods{
+    width: 85%;
+}
+.food-btn{
+    border: none;
+    background-color:white;
+    font-weight: 500;
+    color: rgba(61, 61, 61, 0.829);
+    margin: 9px;
+}
+.checkOut-btn{
+    background-color: lightgray;
+    color: #fff;
+}

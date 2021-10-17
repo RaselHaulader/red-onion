@@ -1,0 +1,23 @@
+
+.about-details h6{
+    color: rgb(36, 36, 36);
+}
+.about-details P{
+    letter-spacing: 0.005px;
+    font-weight: 500;
+    font-size: 14px;
+    color: gray;
+    margin: 20px 0 10px 0;
+}
+.about-details a{
+    color: rgb(32, 119, 250) !important;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+.fa-arrow-circle-right{
+    color: #19E270;
+    margin-left: 10px;
+    font-size: 20px;
+  
+}
